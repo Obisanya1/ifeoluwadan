@@ -1,0 +1,16 @@
+.bg-light {
+    background-color: rgb(151, 79, 79)!important;
+}
+
+#fabs{
+    padding-left: 25px;;
+}
+
+#last{
+    background-color: #f8f9fa;
+}
+
+h2{
+    padding-top: 1.5rem;
+    font-weight: bold;
+}

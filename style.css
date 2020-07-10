@@ -1,0 +1,108 @@
+.bg-light {
+        background-color: rgb(151, 79, 79)!important;
+    }
+
+.navbar-brand{
+    font-weight: bold;
+}    
+
+h3,h4{
+    color: black;
+    font-weight: bold;
+}
+
+h2,h5{
+    color: rgb(94, 10, 10);
+    font-weight: bolder;
+}
+
+h4{
+    color: black;
+    font-weight: bolder;
+    padding-top: 3px;    
+}
+
+#but{
+border-radius: 25%;
+color:rgb(94, 10, 10);
+font-weight: bolder;
+border-color: rgb(14, 13, 13);
+height: 2.3rem; 
+}
+
+#one{
+    color:rgb(94, 10, 10);   
+}
+
+
+#design{
+    background-color: rgb(230, 230, 240);
+    position: relative;
+    top: -4.5rem;
+   color: black !important;
+    opacity: 0.7;
+    height: 73px;
+}
+    
+
+#fourth{
+    align-content: center;
+    position: relative;
+    top: -3.5rem;
+}
+
+
+#go{
+    padding-top: 2rem;
+}
+
+#card1{
+    border-color:rgb(151, 79, 79);
+    background-color: #f5f6f8;
+    max-width: fit-content;
+    margin-bottom: 2rem;
+    border-radius: 25px;
+    box-shadow: 5px 5px 3px 2px rgb(97, 66, 66);
+}
+
+#card3{
+   margin-top: -2rem;
+}
+
+#fabs{
+    padding-left: 25px;
+}
+
+
+#three{
+    background-color:rgb(95, 78, 78);
+    min-height: 250px;
+}
+
+#project{
+    color: rgb(228, 215, 215) !important;
+    padding-top: 2rem;
+}
+
+#dan{
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+    
+    }
+ }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+    
+    }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... } 
